@@ -32,22 +32,6 @@ I believe that every challenge in code reflects a deeper challenge in thinking �
 
 ---
 
-## 📂 Projects
-
-- 📝 **Task Manager App** — React + Node + MongoDB  
-- 🍔 **Food Ordering App** — MERN stack  
-- 📖 **Blog Platform** — REST API with full CRUD
-
-_(Insert your actual links here)_
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuliatik&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: your.email@example.com  
