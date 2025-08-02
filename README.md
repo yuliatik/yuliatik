@@ -33,7 +33,5 @@ I believe that every challenge in code reflects a deeper challenge in thinking �
 ---
 
 ## 📫 Contact Me
-
-- 📧 Email: your.email@example.com  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
