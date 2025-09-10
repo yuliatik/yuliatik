@@ -33,5 +33,5 @@ I believe that every challenge in code reflects a deeper challenge in thinking �
 ---
 
 ## 📫 Contact Me
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: https://www.linkedin.com/feed/?trk=hb_signin
 
