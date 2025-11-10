@@ -29,6 +29,10 @@ I believe that every challenge in code reflects a deeper challenge in thinking â
 - Git & GitHub
 - Postman
 - VS Code
+- React Router
+- Figma
+- GSAP
+  
 
 ---
 
